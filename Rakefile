@@ -4,5 +4,5 @@ task :hello do
 end
 
 task :greeting do 
-    puts  "hello from rake!"
+    puts  "hello from Rake!"
 end 
